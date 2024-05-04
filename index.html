@@ -3,9 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SHADOW</title>
+    <style>
+
+        body{
+            margin-top: 40px;
+            background-color: black;
+        }
+        img{
+            margin-left: 150px;   
+        }
+        h1{
+            text-align: center;
+            color: white;
+            font-size: 50px;
+        }
+        p{
+            color: white;
+        }
+
+                /* ------------ BACKGROUND CSS --------------- */
+
+        .st{
+            height:600px;
+            width: 45%;
+            display: inline-block;                
+        }
+        .nd{
+            height:600px;
+            width: 50%;
+            float: right;
+            border-left: 1px solid white;
+        }
+
+            /* -------- SHADOW CSS ------------- */
+
+        #box-shadow{
+            box-shadow: 20px 20px 50px rgb(75, 114, 142);
+        }
+        #img-shadow{
+            filter: drop-shadow(10px 10px 10px rgb(75, 114, 142)); 
+        }
+    </style>
 </head>
 <body>
-    <h1>HELLO WORLD</h1>
+    
+    <div class="st">
+        <h1>BOX-SHADOW</h1>
+        <img id="box-shadow" src="https://pngfre.com/wp-content/uploads/tom-and-jerry-40-300x264.png"
+        width="420" height="400" />
+    </div>
+
+    <div class=" nd">
+        <h1>IMAGE SHADOW</h1>
+        <img id="img-shadow" src="https://pngfre.com/wp-content/uploads/tom-and-jerry-40-300x264.png"
+        width="420" height="400" />
+    </div>
+
+   <center>
+        <p>by Saba Majeed</p>
+    </center>
 </body>
 </html>
