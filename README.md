@@ -1,6 +1,6 @@
 INSTRUCTION TO GET FILES:
-STEP 01: Click on the button "GET CODE"
-STEP 02: Select ZIP from there and it will download
+STEP 01: Click on the button "CODE"
+STEP 02: Click on DOWNLOAD ZIP from there and it will start download.
 STEP 03: Un-zip file, open it in VS Code or any editable software. 
 
 INSTRUCTIONS ABOUT CODE:
