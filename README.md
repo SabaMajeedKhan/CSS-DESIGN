@@ -10,3 +10,19 @@ The link you'll see on img tag is directly get from google. If your internet con
 Rate my Skills and Comment below if you faced any difficulty.
 Happy Coding!
 
+
+
+# OUTPUT
+
+Output Clip:
+
+
+https://github.com/SabaMajeedKhan/CSS-DESIGN/assets/94845522/d026e5a7-ec2d-419f-ad4a-040b6a2e5413
+
+
+
+Output Image:
+![box-shadow VS img-shadow](https://github.com/SabaMajeedKhan/CSS-DESIGN/assets/94845522/22f2ec35-716c-4eb0-9236-ee5de6eda677)
+
+
+
